@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=d\ h
+comment0.target=Ruleta(int,\ int)
+comment1.params=
+comment1.target=void\ roztoc()
+comment2.params=S
+comment2.target=void\ registrujSazku(Sazka)
+numComments=3
